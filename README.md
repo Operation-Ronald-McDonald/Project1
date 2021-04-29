@@ -14,5 +14,7 @@ Is the teams’ record correlated with the amount of beer consumed within the st
 Why do some stadiums consume more beer than others?
 
 The source of our dataset is based on a few factors:
+
 The US Census
+
 Team Marketing Data Report
