@@ -1,0 +1,31 @@
+Year,Team,Nickname,City,State,State Abbreviation,Price,Size,Price per Ounce,Wins,Losses,Average # of drinks per game,Average Spent per Game (USD)
+2018,Arizona Diamondbacks,Diamondbacks,Phoenix,Arizona,AZ,4,14,0.29,82,80,3.4,$29.00
+2018,Atlanta Braves,Braves,Atlanta,Georgia,GA,5,12,0.42,90,72,4,$32.00
+2018,Baltimore Orioles,Orioles,Baltimore,Maryland,MD,4,12,0.33,47,115,3.5,$31.00
+2018,Boston Red Sox,Red Sox,Boston,Massachusetts,MA,8,12,0.67,95,68,3.2,$33.00
+2018,Chicago Cubs,Cubs,Chicago,Illinois,IL,9,20,0.45,108,54,3.4,$45.00
+2018,Chicago White Sox,White Sox,Chicago,Illinois,IL,7,16,0.44,62,100,4.2,$46.00
+2018,Cincinnati Reds,Reds,Cincinnati,Ohio,OH,6.25,14,0.45,67,95,3.8,$40.00
+2018,Cleveland Indians,Indians,Cleveland,Ohio,OH,5,12,0.42,91,71,3.8,$35.00
+2018,Colorado Rockies,Rockies,Denver,Colorado,CO,3,12,0.25,91,72,3.6,$40.00
+2018,Detroit Tigers,Tigers,Detroit,Michigan,MI,5,12,0.42,64,98,3.5,$35.00
+2018,Houston Astros,Astros,Houston,Texas,TX,6,14,0.43,103,59,2.8,$37.00
+2018,Kansas City Royals,Royals,Kansas City,Missouri,MO,4,12,0.33,58,104,3.3,$25.00
+2018,Los Angeles Angels,Angels,Anaheim,California,CA,4.5,12,0.38,80,82,2.8,$49.00
+2018,Los Angeles Dodgers,Dodgers,Los Angeles,California,CA,6.25,16,0.39,92,71,2.7,$31.00
+2018,Miami Marlins,Marlins,Miami,Florida,FL,6,12,0.5,63,98,3.3,$31.00
+2018,Milwaukee Brewers,Brewers,Milwaukee,Wisconsin,WI,7,16,0.44,96,67,3.5,$35.00
+2018,Minnesota Twins,Twins,Minneapolis,Minnesota,MN,8.5,20,0.43,78,84,3.5,$29.00
+2018,New York Mets,Mets,New York,New York,NY,10.5,20,0.53,77,85,3.5,$53.00
+2018,New York Yankees,Yankees,New York,New York,NY,6,12,0.5,100,62,3.1,$29.00
+2018,Oakland Athletics,Athletics,Oakland,California,CA,5.5,12,0.46,97,65,2.5,$28.00
+2018,Philadelphia Phillies,Phillies,Philadelphia,Pennsylvania,PA,6,12,0.5,80,82,2.4,$23.00
+2018,Pittsburgh Pirates,Pirates,Pittsburgh,Pennsylvania,PA,6,16,0.38,82,79,3,$34.00
+2018,San Diego Padres,Padres,San Diego,California,CA,5,12,0.42,66,96,3.7,$27.00
+2018,San Francisco Giants,Giants,San Francisco,California,CA,8.25,14,0.59,73,89,2.7,$25.00
+2018,Seattle Mariners,Mariners,Seattle,Washington,WA,5,12,0.42,89,73,2.9,$29.00
+2018,St. Louis Cardinals,Cardinals,Saint Louis,Missouri,MO,5,12,0.42,88,74,2.8,$28.00
+2018,Tampa Bay Rays,Rays,Tampa,Florida,FL,5,12,0.42,90,72,2.9,$28.00
+2018,Texas Rangers,Rangers,Arlington,Texas,TX,6,16,0.38,67,95,2.9,$22.00
+2018,Toronto Blue Jays,Blue Jays,Toronto,Canada,,5.67,14,0.41,73,89,3,$25.00
+2018,Washington Nationals,Nationals,Washington,"Washington, D.C.",DC,7,14,0.5,82,80,3.6,$45.00
