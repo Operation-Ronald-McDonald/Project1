@@ -24,9 +24,6 @@ There appears to be a positive correlation between the median household income a
 Based upon our analysis, there appears to be a negative correlation between a team's record and the average number of drinks consumed at a MLB game. We do not have enough confidence in the R-value to accept our null-hypothesis.
 
 
-Why do some stadiums consume more beer than others?
-
-
 
 The source of our dataset is based on a few factors:
 
